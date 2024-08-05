@@ -1,0 +1,92 @@
+[
+    {
+      "id": 4221,
+      "ident": "LFRS",
+      "name": "Nantes Atlantique Airport",
+      "city": "Nantes",
+      "country": "FR",
+      "iata": "NTE",
+      "lat": 47.153198,
+      "lng": -1.61073
+    },
+    {
+      "id": 3113,
+      "ident": "GMMN",
+      "name": "Mohammed V International Airport",
+      "city": "Casablanca",
+      "country": "MA",
+      "iata": "CMN",
+      "lat": 33.3675,
+      "lng": -7.58997
+    },
+    {
+      "id": 3081,
+      "ident": "GCLP",
+      "name": "Gran Canaria Airport",
+      "city": "Casablanca",
+      "country": "ES",
+      "iata": "LPA",
+      "lat": 27.9319,
+      "lng": -15.3866
+    },
+    {
+      "id": 3685,
+      "ident": "KMIA",
+      "name": "Miami International Airport",
+      "city": "Miami",
+      "country": "US",
+      "iata": "MIA",
+      "lat": 25.79319953918457,
+      "lng": -80.29060363769531
+    },
+    {
+      "id": 3771,
+      "ident": "KPHL",
+      "name": "Philadelphia International Airport",
+      "city": "Philadelphia",
+      "country": "US",
+      "iata": "PHL",
+      "lat": 39.87189865112305,
+      "lng": -75.24109649658203
+    },
+    {
+      "id": 4452,
+      "ident": "LPMA",
+      "name": "Madeira International Airport Cristiano Ronaldo",
+      "city": "Funchal",
+      "country": "PT",
+      "iata": "FNC",
+      "lat": 32.69789920043945,
+      "lng": -16.7748991394043
+    },
+    {
+      "id": 6300,
+      "ident": "SVMI",
+      "name": "Simón Bolívar International Airport",
+      "city": "Caracas",
+      "country": "VE",
+      "iata": "CCS",
+      "lat": 10.601194,
+      "lng": -66.991222
+    },
+    {
+      "id": 5977,
+      "ident": "SBSV",
+      "name": "Deputado Luiz Eduardo Magalhães International Airport",
+      "city": "São Vicente",
+      "country": "BR",
+      "iata": "SSA",
+      "lat": -12.908611,
+      "lng": -38.322498
+    },
+    {
+      "id": 5906,
+      "ident": "SBGL",
+      "name": "Rio Galeão – Tom Jobim International Airport",
+      "city": "",
+      "country": "BR",
+      "iata": "GIG",
+      "lat": -22.809999,
+      "lng": -43.250557
+    }
+  ]
